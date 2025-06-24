@@ -1,19 +1,16 @@
-# Blender-Render-Script-Runpod
+# 🧾 Blender Render Script for Runpod
 
-This repo is part of my YouTube demo on how to use Runpod
+This repository is part of a YouTube tutorial demonstrating how to use **Runpod** to render Blender `.blend` files in a cloud environment using **JupyterLab**.
 
-First, make sure that you're in /workspace directory as highlighted below
+## 📂 Step 1: Navigate to the Workspace Directory
 
-JupyterLab - Google Chrome 02-12-2023 16_39_55
+Ensure you are inside the `/workspace` directory in your Runpod instance before proceeding.
 
+---
 
-Open the terminal by clicking on the terminal icon and copy paste the following command.
+## 🖥️ Step 2: Download the Render Script
 
-<p>
-  <code id="wgetCmd">wget "https://github.com/Tupipu/Blender-Render-Script-Runpod/raw/main/Runpod-Blender-Render-Script-(tupipu.com).ipynb"</code>
-  <button onclick="navigator.clipboard.writeText(document.getElementById('wgetCmd').innerText)">Copy</button>
-</p>
+Open the terminal inside JupyterLab and run the command below:
 
-Or else you and also download the script here locally and drag and drop the file into the Jupyter IDE on Runpod.
-
-Play all the snippets one by one. If you face any issues, feel free to create an issue.
+```bash
+wget "https://github.com/Tupipu/Blender-Render-Script-Runpod/raw/main/Runpod-Blender-Render-Script-(tupipu.com).ipynb"
