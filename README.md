@@ -1,6 +1,6 @@
 # 🧾 Blender Render Script for Runpod
 
-This repository is part of a YouTube tutorial demonstrating how to use **Runpod** to render Blender `.blend` files in a cloud environment using **JupyterLab**.
+This repository helps to configure **Runpod** to render Blender `.blend` files in a cloud environment using **JupyterLab**.
 
 ## 📂 Step 1: Navigate to the Workspace Directory
 
